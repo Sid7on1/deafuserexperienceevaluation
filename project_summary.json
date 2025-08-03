@@ -1,0 +1,16 @@
+{
+  "project_name": "DeafUserExperienceEvaluation",
+  "project_type": "nlp",
+  "completion_time": "2025-08-03T20:49:14.160775",
+  "total_tasks": 3,
+  "completed_tasks": 3,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/DeafUserExperienceEvaluation"
+}
